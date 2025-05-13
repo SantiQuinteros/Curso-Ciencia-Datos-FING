@@ -4,4 +4,4 @@ En script, se encuentra el código de python utilizado en el informe, en formato
 
 En datos, se encuentra la base de datos utilizada, en formato csv.
 
-En informe, se encuentra el pdf con la entrega.
+El informe se encuentra en pdf en la carpeta general.
