@@ -1,4 +1,4 @@
-# Primera entrega Introducción Ciencia de Datos - Grupo 23
+# Entregas Introducción Ciencia de Datos - Grupo 23
 
 En script, se encuentran los códigos de python utilizados en los informes, en formato ipynb.
 
