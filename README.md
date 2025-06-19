@@ -5,5 +5,5 @@ En script, se encuentran los códigos de python utilizados en los informes, en f
 En datos, se encuentra la base de datos utilizada, en formato csv.
 
 Los informes se encuentran en pdf en la carpeta general:
-*  Informe Grupo 23.pdg -> Corresponde a la primer tarea
-*  Informe Grupo 23 - Tarea 2.pdg -> Corresponde a la segunda tarea
+*  Informe Grupo 23.pdf -> Corresponde a la primer tarea
+*  Informe Grupo 23 - Tarea 2.pdf -> Corresponde a la segunda tarea
